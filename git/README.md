@@ -4,7 +4,7 @@ description: >-
   без разделения по национальным, социальным, религиозным и другим признакам.
 ---
 
-# 👋 Добро пожаловать!
+# 🌄 Добро пожаловать!
 
 {% hint style="info" %}
 **Документация разрабатывается** постепенно охватывая все важные аспекты современного человечества.
@@ -22,12 +22,12 @@ description: >-
 
 ## Quick links
 
-{% content-ref url="overview/chto-my-delaem.md" %}
-[chto-my-delaem.md](overview/chto-my-delaem.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
+{% content-ref url="overview/chto-my-delaem.md" %}
+[chto-my-delaem.md](overview/chto-my-delaem.md)
 {% endcontent-ref %}
 
 ## Get Started

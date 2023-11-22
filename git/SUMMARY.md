@@ -1,16 +1,16 @@
 # Table of contents
 
-* [👋 Добро пожаловать!](README.md)
+* [🌄 Добро пожаловать!](README.md)
 
-## Overview
+## Обзор <a href="#overview" id="overview"></a>
 
-* [💡 Что мы делаем](overview/chto-my-delaem.md)
-* [✨ Our Features](overview/our-features.md)
+* [🌈 Наши возможности](overview/nashi-vozmozhnosti.md)
+* [🌱 Что мы делаем](overview/chto-my-delaem.md)
 
 ## Product Guides
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+* [📪 Бот телеграм](product-guides/bot-telegram.md)
+* [📎 Веб приложение](product-guides/veb-prilozhenie.md)
 
 ## Fundamentals
 
