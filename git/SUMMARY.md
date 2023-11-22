@@ -4,7 +4,7 @@
 
 ## Overview
 
-* [💡 What we do](overview/what-we-do.md)
+* [💡 Что мы делаем](overview/chto-my-delaem.md)
 * [✨ Our Features](overview/our-features.md)
 
 ## Product Guides

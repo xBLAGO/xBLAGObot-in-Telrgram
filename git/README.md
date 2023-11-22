@@ -22,8 +22,8 @@ description: >-
 
 ## Quick links
 
-{% content-ref url="overview/what-we-do.md" %}
-[what-we-do.md](overview/what-we-do.md)
+{% content-ref url="overview/chto-my-delaem.md" %}
+[chto-my-delaem.md](overview/chto-my-delaem.md)
 {% endcontent-ref %}
 
 {% content-ref url="overview/our-features.md" %}
