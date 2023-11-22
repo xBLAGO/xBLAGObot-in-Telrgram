@@ -6,7 +6,9 @@
 
 ## Awesome Feature One
 
-Get amazing things done with awesome feature one. But remember that awesome feature two and three exist too. In fact, Awesome Product is full of awesome features.
+Для своих задач мы воспользовались блокчейном **TON (The Open Network)**, так как он кажется наиболее быстрым и масштабируемым среди других. Так же плюсом является совместная интеграция с мессенджером Telegram, что улучшает и упрощает нашу работу.&#x20;
+
+_Выбор блокчейна и других компонентов сети может меняться в зависимости от потребностей сообщества и задач, которые необходимо решить._
 
 ![](https://images.unsplash.com/photo-1555774698-0b77e0d5fac6?crop=entropy\&cs=tinysrgb\&fm=jpg\&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHxhcHB8ZW58MHx8fHwxNjYwNTgzMzQz\&ixlib=rb-1.2.1\&q=80)
 
