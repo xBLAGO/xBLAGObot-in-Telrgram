@@ -7,7 +7,7 @@
 * [🌈 Возможности](overview/vozmozhnosti.md)
 * [🌱 Инфраструктура](overview/infrastruktura.md)
 
-## Product Guides
+## Инструкции
 
-* [🤖 Бот телеграм](product-guides/bot-telegram.md)
-* [💻 Веб приложение](product-guides/veb-prilozhenie.md)
+* [🤖 Бот телеграм](instrukcii/bot-telegram.md)
+* [💻 Веб приложение](instrukcii/veb-prilozhenie.md)
