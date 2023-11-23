@@ -26,8 +26,8 @@ description: >-
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="overview/chto-my-delaem.md" %}
-[chto-my-delaem.md](overview/chto-my-delaem.md)
+{% content-ref url="overview/infrastruktura.md" %}
+[infrastruktura.md](overview/infrastruktura.md)
 {% endcontent-ref %}
 
 ## Get Started

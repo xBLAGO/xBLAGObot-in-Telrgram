@@ -4,8 +4,8 @@
 
 ## Обзор <a href="#overview" id="overview"></a>
 
-* [🌈 Наши возможности](overview/nashi-vozmozhnosti.md)
-* [🌱 Что мы делаем](overview/chto-my-delaem.md)
+* [🌈 Возможности](overview/vozmozhnosti.md)
+* [🌱 Инфраструктура](overview/infrastruktura.md)
 
 ## Product Guides
 
