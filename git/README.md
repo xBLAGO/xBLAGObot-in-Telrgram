@@ -22,6 +22,6 @@ description: >-
 
 ## Quick links
 
-{% content-ref url="overview/infrastruktura.md" %}
-[infrastruktura.md](overview/infrastruktura.md)
+{% content-ref url="overview/blockchain.md" %}
+[blockchain.md](overview/blockchain.md)
 {% endcontent-ref %}
