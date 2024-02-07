@@ -10,3 +10,10 @@
 * [💻 Веб приложение](overview/veb-prilozhenie.md)
 
 ## Инструкции
+
+* [🤖 Бот телеграм](instrukcii/bot-telegram.md)
+* [💻 Веб приложение](instrukcii/veb-prilozhenie.md)
+
+***
+
+* [📬 Контакты](kontakty.md)
