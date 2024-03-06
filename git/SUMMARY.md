@@ -6,7 +6,7 @@
 
 * [🌈 Возможности](overview/vozmozhnosti.md)
 * [🌱 Блокчейн](overview/blockchain.md)
-* [♾ Токеномика](overview/tokenomics.md)
+* [♾️ Токеномика](overview/tokenomics.md)
 * [🤖 Бот телеграм](overview/bot-telegram.md)
 * [💻 Веб приложение](overview/veb-prilozhenie.md)
 
